@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath> // For pow()
+#include <cmath> // To Use pow()
 
 // Function to convert decimal to base 5
 void decimalToBase5(int decimal) {
