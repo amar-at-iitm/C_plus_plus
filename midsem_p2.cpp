@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+// Function to convert a decimal number to a specified base
 void print(int v, int b=10)
 {
     int i=0;
